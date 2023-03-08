@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-11-25T02:27:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>face.png</Source>
+      <Name>face</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\face.xnb</Output>
+      <Time>2014-11-25T02:28:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Snake_body.png</Source>
+      <Name>Snake_body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\Snake_body.xnb</Output>
+      <Time>2014-12-05T12:53:59.036622-05:00</Time>
+    </Item>
+    <Item>
+      <Source>food.jpg</Source>
+      <Name>food</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\food.xnb</Output>
+      <Time>2014-12-05T13:31:03.0530699-05:00</Time>
+    </Item>
+    <Item>
+      <Source>alienmetal.jpg</Source>
+      <Name>alienmetal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\alienmetal.xnb</Output>
+      <Time>2014-12-05T11:46:21.3556255-05:00</Time>
+    </Item>
+    <Item>
+      <Source>greenmetal.jpg</Source>
+      <Name>greenmetal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\greenmetal.xnb</Output>
+      <Time>2014-12-05T11:46:21.3712507-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-12-05T13:35:24.9702599-05:00</Time>
+    </Item>
+    <Item>
+      <Source>hyperspace_activate.wav</Source>
+      <Name>hyperspace_activate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\hyperspace_activate.xnb</Output>
+      <Time>2014-12-05T19:57:51.6932801-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rattlesnake6.wav</Source>
+      <Name>rattlesnake6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\rattlesnake6.xnb</Output>
+      <Time>2014-12-05T20:11:07.7040689-05:00</Time>
+    </Item>
+    <Item>
+      <Source>snakehit.wav</Source>
+      <Name>snakehit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\snakehit.xnb</Output>
+      <Time>2014-12-05T20:11:07.6550659-05:00</Time>
+    </Item>
+    <Item>
+      <Source>rattlesnakerattle.wav</Source>
+      <Name>rattlesnakerattle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\rattlesnakerattle.xnb</Output>
+      <Time>2014-12-05T20:16:25.4403566-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Karim\Documents\College - Semester 5\s5-Game Development\Assignments\Group Assignment\5\Snake_Assignment02\Snake_Assignment02\Snake_Assignment02\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-10T23:47:53.2909906-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
